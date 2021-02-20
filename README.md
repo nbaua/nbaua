@@ -1,16 +1,23 @@
-### Hi there 👋
 
-<!--
-**nbaua/nbaua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Hi there 👋, I'm Nhilesh Baua.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+** I am an Independent IT Consultant, based out of Mumbai, India.**
+** I love to work on open source technologies in both web and mobile sphere.** 
+** When I am not working on commercial projects, I learn on to new technologies**
+
+Some of the technologies which I am confident working with 
+
+|   |   |   |
+| ------------ | ------------ | ------------ |
+| NodeJS | TypeScript  | JavaScript  |
+| Angular | NestJs  | Nrwl(NX)  |
+| GraphQL | Prisma | REST APIs |
+| Android | C#.Net |  Asp.Net |
+| MySql | MongoDB | TypeORM|
+| NativeScript | Ionic | React Native | 
+|   |   |   ||
+
+#### You can reach me at: nhilesh.baua@gmail.com
+
