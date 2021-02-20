@@ -3,9 +3,11 @@
 ### Hi there 👋, I'm Nhilesh Baua.
 
 ---
-** I am an Independent IT Consultant, based out of Mumbai, India.**
-** I love to work on open source technologies in both web and mobile sphere.** 
-** When I am not working on commercial projects, I learn on to new technologies**
+**I am an Independent IT Consultant, based out of Mumbai, India.**
+
+**I love to work on open source technologies in both web and mobile sphere.** 
+
+**When I am not working on commercial projects, I learn on to new technologies**
 
 Some of the technologies which I am confident working with 
 
