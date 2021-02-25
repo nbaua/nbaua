@@ -1,6 +1,6 @@
 
 
-### Hi there 👋, I'm Nhilesh Baua.
+### Hi there, I'm Nhilesh Baua.
 
 ---
 **I am an Independent IT Consultant, based out of Mumbai, India.**
