@@ -7,7 +7,7 @@
 
 **I love to work on open source technologies in both web and mobile sphere.** 
 
-**When I am not working on commercial projects, I learn on to new technologies**
+**When I am not working on commercial projects, I learn on to new technologies and work on open source projects.**
 
 Some of the technologies which I am confident working with 
 
