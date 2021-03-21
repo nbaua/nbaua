@@ -18,7 +18,8 @@ Some of the technologies which I am confident working with
 | GraphQL | Prisma | REST APIs |
 | Android | C#.Net |  Asp.Net |
 | MySql | MongoDB | TypeORM|
-| NativeScript | Ionic | React Native | 
+| React Native | React Web | NextJs | 
+| NativeScript | Ionic | Bulma/Bootstrap | 
 |   |   |   ||
 
 #### You can reach me at: nhilesh.baua@gmail.com
