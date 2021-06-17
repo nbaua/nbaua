@@ -3,7 +3,7 @@
 ### Hi there, I'm Nhilesh Baua.
 
 ---
-**I am an Independent IT Consultant, based out of Mumbai, India.**
+**I am an IT Consultant, Technical Lead and Architect, based out of Mumbai, India.**
 
 **I love to work on open source technologies in both web and mobile sphere.** 
 
