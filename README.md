@@ -3,8 +3,7 @@
 ## Hi there, I'm Nhilesh Baua.
 
 
-**I am an IT Consultant, Technical Lead and Architect, based out of Mumbai, India.**
-**IT professional with over 17 years of experience in the industry having experience in variety of domains like Banking, Finance, Insurance, Retail, E-Commerce, Education and Healthcare. Well versed with clean design, Architecture patterns and practices.**
+**I am an IT Consultant, Technical Lead and Architect, based out of Mumbai, India., with over 17 years of experience in the industry having experience in variety of domains like Banking, Finance, Insurance, Retail, E-Commerce, Education and Healthcare. Well versed with clean design, Architecture patterns and practices.**
 
 **I love to work on open source technologies in both web and mobile sphere.** 
 
