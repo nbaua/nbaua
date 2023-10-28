@@ -1,35 +1,30 @@
 
 
-### Hi there, I'm Nhilesh Baua.
+## Hi there, I'm Nhilesh Baua.
 
----
+
 **I am an IT Consultant, Technical Lead and Architect, based out of Mumbai, India.**
+**IT professional with over 17 years of experience in the industry having experience in variety of domains like Banking, Finance, Insurance, Retail, E-Commerce, Education and Healthcare. Well versed with clean design, Architecture patterns and practices.**
 
 **I love to work on open source technologies in both web and mobile sphere.** 
 
-**When I am not working on commercial projects, I learn on to new technologies and work on open source projects.**
+#### Technical Stack
 
-Some of the technologies which I am confident working with
-
-|   |   |   |   |   |
-| ------------ | ------------ | ------------ | ------------ | ------------ |
-| JavaScript | TypeScript  | NodeJS  | GraphQL | REST APIs |
-| Angular | NestJs  | Nrwl(NX)  | Prisma | TypeORM |
-| React Web | NextJs | React Native | MySql | Postgresql |
-
-Some of the technolgoies I am still exploring
-
-|   |   | 
+|I am well versed with |  |  
 | ------------ | ------------ |
-| NativeScript (with Angular) | Android (with Kotlin Multiplatform ) |
+| Programing languages | C#, ASP.Net, .Net Core, JavaScript, TypeCcript, Java (android) etc. |
+| ORMs| EF, Dapper, TypeORM, etc. |
+|Specifications/Env | NodeJS, GraphQL, HTML5 and CSS etc. |
+| FW/Libraries | Angular, React JS, NX (Nrwl), NestJS, JQuery, Bootstrap, Bulma, and more, |
+| Databases |  MS SQL, MySQL, MongoDB, Firebase etc. |
+| Mobile FW/ Mobile UI Libraries | React Native, Xamarin, DevExtreme, Kendo UI |
+| Project Management|  Trello, Jira, Microsoft Project, Confluence, Azure Team Foundation Server
+| Source code and CI-CD|   VSS, TFS, Git, Azure Dev-ops, Team City - Jenkins |
+| Message-broker tools- caching - packaging applications | Kafka, RabbitMQ, Redis, Docker and Kubernetes, NSIS etc.|
+|Software development methodology| Agile-SCRUM - Waterfall, Kanban (Kanban board), TDD, BDD|
+| Micros service patterns-practices| CQRS, Event sourcing | 
 
-Some of the technolgoies I have worked in past, and still see sometimes around
-
-|   |   |   |   |   |
-| ------------ | ------------ | ------------ | ------------ | ------------ |
-| C#.Net |  Asp.Net | Web API | EF | Linq |
-| Sql Server |  MongoDB | Firebase  DB | Firebase API  | SCSS|
-| Xamarin | NativeScript | Ionic | Bootstrap |  HTML5 |
+#### And more....
 
 #### You can reach me at: nhilesh.baua@gmail.com
 
