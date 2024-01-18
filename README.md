@@ -20,6 +20,7 @@
 | Project Management|  Trello, Jira, Microsoft Project, Confluence, Azure Team Foundation Server
 | Source code and CI-CD|   VSS, TFS, Git, Azure Dev-ops, Team City - Jenkins |
 | Message-broker tools- caching - packaging applications | Kafka, RabbitMQ, Redis, Docker and Kubernetes, NSIS etc.|
+| Cloud Services | Working proficiency with Elastic cache/Redis, Azure functions, S3 Bucket and BLOB storage, AWS Key management Etc. as per release processes   |
 | Software development methodology| Agile-SCRUM - Waterfall, Kanban (Kanban board), TDD, BDD|
 | Micros service patterns-practices| CQRS, Event sourcing | 
 
