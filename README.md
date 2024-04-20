@@ -1,7 +1,7 @@
 
 
 ## Hi there, I'm Nhilesh Baua.
-
+![](https://komarev.com/ghpvc/?username=nbaua&base=1234&style=for-the-badge&color=ca2426)
 
 **I am an IT Consultant, Technical Lead and Architect, based out of Mumbai, India., with over 17 years of experience in the industry working on variety of domains like Banking, Finance, Insurance, Retail, E-Commerce, Education and Healthcare. Well versed with clean design, Architecture patterns and practices.**
 
