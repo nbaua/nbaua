@@ -3,11 +3,11 @@
 ## Hi there, I'm Nhilesh Baua.
 ![](https://komarev.com/ghpvc/?username=nbaua&base=1234&style=for-the-badge&color=ca2426)
 
-**I am an IT Consultant, Technical Lead, and Architect based in Mumbai, India, with over 19 years of industry experience across diverse domains including Banking, Finance, Insurance, Retail, E‑Commerce, Education, and Healthcare. Well‑versed in clean design principles, architecture patterns, and best practices, I bring a proven ability to design and deliver complex enterprise systems. Alongside this, I actively champion the adoption of AI and ML within the .NET ecosystem.**
+**I am an IT Professional, Technical Lead, and Architect based in Mumbai, India, with extensive experience across diverse domains including Banking, Finance, Insurance, Retail, E‑Commerce, Education, and Healthcare. Skilled in clean design principles, architecture patterns, and industry best practices, I have a proven track record of designing and delivering complex enterprise systems.**
 
-**I am a strong advocate for on‑premise, C#‑based AI solutions, challenging the common misconception that AI development is limited to Python. By leveraging the Microsoft technology stack, including Semantic Kernel and the Microsoft Agent Framework — sailing confidently on the AI journey with innovation rooted in Microsoft’s tools and frameworks.**
+**In addition to my core expertise, I am actively pursuing the integration of Artificial Intelligence (AI) and Machine Learning (ML) within the .NET ecosystem. I am a strong advocate for on‑premise, C#‑based AI solutions, challenging the widespread misconception that AI development is confined to Python. By harnessing the Microsoft technology stack—including Semantic Kernel and the Microsoft Agent Framework—I demonstrate how powerful, scalable, and enterprise‑ready AI systems can be built, sailing confidently on the AI journey with innovation firmly rooted in Microsoft’s tools and frameworks.**
 
-**I am passionate about open‑source development in both web and mobile spheres, and Beyond technology, I dedicate time to community causes, contributing to initiatives that address recycling plastic and e-waste challenges and supporting the welfare of stray dogs and cats.** 
+**I am passionate about open‑source development across both web and mobile spheres, constantly seeking opportunities to contribute and collaborate within the developer community. Beyond technology, I dedicate time to community causes, actively supporting initiatives that tackle plastic and e‑waste recycling challenges while also advocating for the welfare of stray dogs and cats. This balance of professional expertise and social responsibility reflects my commitment to driving meaningful impact both in technology and in society.** 
 
 #### My Latest AI Experiments
 
